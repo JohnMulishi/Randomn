@@ -1,0 +1,35 @@
+body{
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#you{
+    font-size:25px;
+    font-weight: bolder;
+
+}
+#me{
+    font-size:15px;
+    font-weight:bolder;
+}
+#confirm{
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+    background-color:green;
+    padding:5px;
+    border-color:black;
+    border-style:solid;
+    border-width:2px;
+
+}
+#cancel{
+    font-size:20px;
+    font-weight:lighter;
+    padding:5px;
+    border-color:black;
+    border-style:solid;
+    border-width:2px;
+}
+#move{
+    margin-top:10px;
+}
